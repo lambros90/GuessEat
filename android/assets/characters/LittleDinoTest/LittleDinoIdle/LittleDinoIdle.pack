@@ -1,0 +1,75 @@
+
+LittleDinoIdle.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+output-onlinepngtools (15)
+  rotate: false
+  xy: 1, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (16)
+  rotate: false
+  xy: 49, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (17)
+  rotate: false
+  xy: 97, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (18)
+  rotate: false
+  xy: 145, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (19)
+  rotate: false
+  xy: 193, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (20)
+  rotate: false
+  xy: 241, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (21)
+  rotate: false
+  xy: 289, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (22)
+  rotate: false
+  xy: 289, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (23)
+  rotate: false
+  xy: 337, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (24)
+  rotate: false
+  xy: 385, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1

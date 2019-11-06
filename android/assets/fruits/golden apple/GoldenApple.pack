@@ -1,0 +1,33 @@
+
+GoldenApple.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+golden_apple _0_rotated
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 90
+golden_apple
+  rotate: false
+  xy: 19, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+golden_apple_1_rotated
+  rotate: false
+  xy: 37, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 180
+golden_apple_2_rotated
+  rotate: false
+  xy: 55, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 270

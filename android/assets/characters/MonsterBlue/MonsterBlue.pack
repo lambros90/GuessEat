@@ -1,0 +1,47 @@
+
+MonsterBlue.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+run
+  rotate: false
+  xy: 0, 0
+  size: 243, 242
+  orig: 243, 242
+  offset: 0, 0
+  index: 0
+run
+  rotate: false
+  xy: 243, 0
+  size: 243, 242
+  orig: 243, 242
+  offset: 0, 0
+  index: 1
+run
+  rotate: false
+  xy: 486, 0
+  size: 243, 242
+  orig: 243, 242
+  offset: 0, 0
+  index: 2
+run
+  rotate: false
+  xy: 729, 0
+  size: 243, 242
+  orig: 243, 242
+  offset: 0, 0
+  index: 3
+run
+  rotate: false
+  xy: 972, 0
+  size: 243, 242
+  orig: 243, 242
+  offset: 0, 0
+  index: 4
+run
+  rotate: false
+  xy: 1215, 0
+  size: 243, 242
+  orig: 243, 242
+  offset: 0, 0
+  index: 5

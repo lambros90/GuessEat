@@ -1,0 +1,12 @@
+
+Spikes1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+spikesv2
+  rotate: false
+  xy: 2, 2
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1

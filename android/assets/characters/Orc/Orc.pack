@@ -1,0 +1,54 @@
+
+Orc.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+output-onlinepngtools (1)
+  rotate: false
+  xy: 0, 448
+  size: 680, 448
+  orig: 680, 448
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (2)
+  rotate: false
+  xy: 0, 0
+  size: 680, 448
+  orig: 680, 448
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (3)
+  rotate: false
+  xy: 680, 448
+  size: 680, 448
+  orig: 680, 448
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (4)
+  rotate: false
+  xy: 680, 0
+  size: 680, 448
+  orig: 680, 448
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (5)
+  rotate: false
+  xy: 1360, 448
+  size: 680, 448
+  orig: 680, 448
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (6)
+  rotate: false
+  xy: 1360, 0
+  size: 680, 448
+  orig: 680, 448
+  offset: 0, 0
+  index: -1
+output-onlinepngtools
+  rotate: false
+  xy: 2040, 448
+  size: 680, 448
+  orig: 680, 448
+  offset: 0, 0
+  index: -1

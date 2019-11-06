@@ -1,0 +1,12 @@
+
+Splash.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greensplash
+  rotate: false
+  xy: 0, 0
+  size: 880, 761
+  orig: 880, 761
+  offset: 0, 0
+  index: -1

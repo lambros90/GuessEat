@@ -1,0 +1,61 @@
+
+MonsterFly.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+output-onlinepngtools (10)
+  rotate: false
+  xy: 0, 468
+  size: 680, 468
+  orig: 680, 468
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (11)
+  rotate: false
+  xy: 0, 0
+  size: 680, 468
+  orig: 680, 468
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (12)
+  rotate: false
+  xy: 680, 468
+  size: 680, 468
+  orig: 680, 468
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (13)
+  rotate: false
+  xy: 680, 0
+  size: 680, 468
+  orig: 680, 468
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (14)
+  rotate: false
+  xy: 1360, 468
+  size: 680, 468
+  orig: 680, 468
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (7)
+  rotate: false
+  xy: 1360, 0
+  size: 680, 468
+  orig: 680, 468
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (8)
+  rotate: false
+  xy: 2040, 468
+  size: 680, 468
+  orig: 680, 468
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (9)
+  rotate: false
+  xy: 2040, 0
+  size: 680, 468
+  orig: 680, 468
+  offset: 0, 0
+  index: -1

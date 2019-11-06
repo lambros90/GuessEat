@@ -1,0 +1,61 @@
+
+Wogol.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wogol_idle_anim_f0
+  rotate: false
+  xy: 1, 1
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+wogol_idle_anim_f1
+  rotate: false
+  xy: 19, 1
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+wogol_idle_anim_f2
+  rotate: false
+  xy: 37, 1
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+wogol_idle_anim_f3
+  rotate: false
+  xy: 55, 1
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+wogol_run_anim_f0
+  rotate: false
+  xy: 73, 1
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+wogol_run_anim_f1
+  rotate: false
+  xy: 91, 1
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+wogol_run_anim_f2
+  rotate: false
+  xy: 109, 1
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+wogol_run_anim_f3
+  rotate: false
+  xy: 127, 1
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1

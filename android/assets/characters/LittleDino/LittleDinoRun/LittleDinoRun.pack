@@ -1,0 +1,61 @@
+
+LittleDinoRun.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run (1)
+  rotate: false
+  xy: 0, 472
+  size: 680, 472
+  orig: 680, 472
+  offset: 0, 0
+  index: -1
+Run (2)
+  rotate: false
+  xy: 0, 0
+  size: 680, 472
+  orig: 680, 472
+  offset: 0, 0
+  index: -1
+Run (3)
+  rotate: false
+  xy: 681, 472
+  size: 680, 472
+  orig: 680, 472
+  offset: 0, 0
+  index: -1
+Run (4)
+  rotate: false
+  xy: 681, 0
+  size: 680, 472
+  orig: 680, 472
+  offset: 0, 0
+  index: -1
+Run (5)
+  rotate: false
+  xy: 1362, 472
+  size: 680, 472
+  orig: 680, 472
+  offset: 0, 0
+  index: -1
+Run (6)
+  rotate: false
+  xy: 1362, 0
+  size: 680, 472
+  orig: 680, 472
+  offset: 0, 0
+  index: -1
+Run (7)
+  rotate: false
+  xy: 2043, 472
+  size: 680, 472
+  orig: 680, 472
+  offset: 0, 0
+  index: -1
+Run (8)
+  rotate: false
+  xy: 2043, 0
+  size: 680, 472
+  orig: 680, 472
+  offset: 0, 0
+  index: -1

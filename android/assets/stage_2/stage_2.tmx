@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="8" nextobjectid="77">
+ <tileset firstgid="1" source="dungeon2.tsx"/>
+ <tileset firstgid="101" source="dungeon3.tsx"/>
+ <layer id="2" name="Background" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt1iEOgDAQBdEeCbBgwcL9T0MlCJomkDDdjnh+88Vkh5TSIEkBjNkEuCOSmk3dXV+YswVwRyQ1m5J3ty3tWLMNcEckNZuSdye3RXd7dgDuiKRmU/Lu5LZIKiO2xZ9eahf9p7cv0jP6T0/vS+/s67+bEn/6K3pfemdf3bSE3pfe2Vc3Vbvsq5tKeucE2clNPw==
+  </data>
+ </layer>
+ <objectgroup id="5" name="Ground">
+  <object id="5" x="0" y="176" width="208" height="32"/>
+  <object id="7" x="289.25" y="96.25" width="111.75" height="111.75"/>
+  <object id="9" x="207.75" y="173.25">
+   <polygon points="0,0 75,-76.5 80.75,-76.5 79.75,34 0.75,34.5"/>
+  </object>
+  <object id="10" x="399.75" y="96">
+   <polygon points="0,0 6.75,0.75 80.75,78.75 80.75,111.25 -1.25,112.5"/>
+  </object>
+  <object id="11" x="481.25" y="176.25" width="206" height="31"/>
+  <object id="12" x="737" y="160.5" width="46" height="14.75"/>
+  <object id="13" x="817" y="160" width="47" height="15.25"/>
+  <object id="14" x="896" y="160" width="47.5" height="15.5"/>
+  <object id="15" x="1120" y="112" width="240" height="96"/>
+  <object id="16" x="976" y="192" width="144" height="16"/>
+  <object id="17" x="1119.25" y="112.25">
+   <polygon points="0,0 -5.25,0.5 -79.5,77.5 -79.5,79.25 0,79.75"/>
+  </object>
+  <object id="18" x="1408" y="112" width="48" height="16"/>
+  <object id="19" x="1504" y="64" width="48" height="144"/>
+  <object id="20" x="1680" y="160" width="160" height="48"/>
+  <object id="21" x="1920" y="192" width="240" height="16"/>
+  <object id="22" x="2112" y="128" width="48" height="48"/>
+  <object id="23" x="2112" y="176" width="48" height="16"/>
+  <object id="24" x="2160" y="192" width="240" height="16"/>
+  <object id="25" x="2400" y="192" width="368" height="16"/>
+  <object id="26" x="2527" y="47.75">
+   <polygon points="0,0 16.5,0 18,16 32.5,15.75 33,32.25 49,32.25 49,48.25 65,48.25 65,64.25 81,64.25 81,80.25 97,80.25 97,96.25 113,96.25 113,112.25 129,112.25 129,128.25 145,128.25 145,144.25 -127,144.25 -127,128.25 -111,128.25 -111,112.25 -95,112.25 -95,96.25 -79,96.25 -79,80.25 -63,80.25 -63,64.25 -47,64.25 -47,48.25 -31,48.25 -31,32.25 -15,32.25 -15,16.25 1,16.25 1,0.25"/>
+  </object>
+  <object id="28" x="2816" y="176" width="48" height="16"/>
+  <object id="29" x="2912" y="176" width="48" height="16"/>
+  <object id="30" x="2992" y="192" width="368" height="16"/>
+  <object id="31" x="3296" y="144" width="48" height="16"/>
+  <object id="32" x="3376" y="112" width="112" height="16"/>
+  <object id="33" x="3360" y="112" width="16" height="16"/>
+  <object id="34" x="3504" y="144" width="48" height="16"/>
+  <object id="35" x="3600" y="112" width="48" height="16"/>
+  <object id="36" x="3696" y="80" width="48" height="16"/>
+  <object id="37" x="3424" y="0" width="416" height="16"/>
+  <object id="38" x="3008" y="0" width="416" height="16"/>
+  <object id="39" x="2672" y="0" width="336" height="16"/>
+  <object id="40" x="2767.75" y="17.5">
+   <polygon points="0,0 0.25,14.5 16.25,14.5 16.25,30.5 32.25,30.5 32.25,46.5 48.25,46.5 48.25,62.5 64.25,62.5 64.25,78.5 80.25,78.5 80.25,94.5 96.25,94.5 96.25,110.5 112.25,110.5 112.25,126.5 128.25,126.5 128.25,110.5 144.25,110.5 144.25,94.5 160.25,94.5 160.25,78.5 176.25,78.5 176.25,62.5 192.25,62.5 192.25,46.5 208.25,46.5 208.25,30.5 224.25,30.5 224.25,14.5 240.25,14.5 240.25,-1.5"/>
+  </object>
+  <object id="41" x="2400" y="0" width="368" height="16"/>
+  <object id="42" x="2032" y="0" width="368" height="16"/>
+  <object id="43" x="1632" y="0" width="400" height="16"/>
+  <object id="44" x="1344" y="0" width="288" height="16"/>
+  <object id="45" x="1056" y="0" width="288" height="16"/>
+  <object id="48" x="880" y="0" width="304" height="16"/>
+  <object id="49" x="560" y="0" width="320" height="16"/>
+  <object id="50" x="240" y="0" width="320" height="16"/>
+  <object id="51" x="0" y="0" width="240" height="16"/>
+  <object id="52" x="0" y="16" width="80" height="48"/>
+  <object id="53" x="128" y="16" width="16" height="48"/>
+  <object id="54" x="144" y="16" width="96" height="48"/>
+ </objectgroup>
+ <objectgroup id="6" name="Pipe">
+  <object id="55" x="3792" y="64" width="16" height="144"/>
+ </objectgroup>
+ <objectgroup id="7" name="Spikes">
+  <object id="57" x="3552" y="192" width="288" height="16"/>
+  <object id="58" x="3360" y="192" width="208" height="16"/>
+  <object id="59" x="3360" y="128" width="128" height="16"/>
+  <object id="60" x="2768" y="192" width="224" height="16"/>
+  <object id="62" x="2880" y="144" width="16" height="16"/>
+  <object id="63" x="1856" y="192" width="64" height="16"/>
+  <object id="64" x="1840" y="160" width="16" height="48"/>
+  <object id="65" x="1792" y="144" width="32" height="16"/>
+  <object id="66" x="1744" y="144" width="32" height="16"/>
+  <object id="67" x="1696" y="144" width="32" height="16"/>
+  <object id="68" x="1664" y="160" width="16" height="32"/>
+  <object id="69" x="1552" y="192" width="112" height="16"/>
+  <object id="70" x="1664" y="192" width="16" height="16"/>
+  <object id="71" x="1360" y="192" width="128" height="16"/>
+  <object id="72" x="1488" y="192" width="16" height="16"/>
+  <object id="73" x="1504" y="16" width="48" height="16"/>
+  <object id="74" x="736" y="192" width="240" height="16"/>
+  <object id="75" x="688" y="192" width="48" height="16"/>
+  <object id="76" x="649" y="230"/>
+ </objectgroup>
+ <layer id="1" name="Ground" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztmU1OAzEMhQ0sEKKVYNFyBkDAlkrQIliwaU/AjzgaR+nRsKGRBhNnkpk4mQx50lvQlsSe8Wdn2gkATBq+Ry8bfkBfWdz83Ao9F7yM5FXEtWI6VVwp89fYaxVoaR2qKVs9+noeGEPfeEPzDvWEeQq/dbzLe7GzuQ7PUFWVRzPoxu5ZjmCVZbhdgJtf7spvVU6FMjxGdkl81vM8Z2A/F5R6Pe5yB1D1rXOAz75r+DJcaq1WDVd76H30Qe5AMohyJ65i5N7GcGW3SkP0XGJ7Xhm7DLvGmgyXzi6eUeACfam8zyH6VfAb+kh5/xKF3G6R3y1yvM0dSypxdjUZLp3dVDpBn8LPNbsG+RxTEsOUk+l9oea9Uuqh/41fiV0NhnOwK80vM8NcSjVnuZrskm/BfY9KYJhy6vP7ou/38kPlV+O5nLNLff4GdBhGFj4iLDN6cXbJj/D3PpXEcBu7Ut2Nid/Yz+W2uUt9fmF5PRbDKdRlZuaas1w2dm2W5nEMhm3Xwvc1m3zmrqvuNPl1nc18z2i+itlXpDMz9fkn4b2SGB6CfGqD10nbjJXmcdOh+2reU98zc1vdafHre3aPoVj8up531+iN4/0QhqX+PJRZpy0fDlN4zf7m8Uwj5ky1ZXoR70dtMbbV3dD4De2T77u1Xjr8b7PHm3W6Wtq/zznDJ+6u+ebSF8hFxII=
+  </data>
+ </layer>
+ <layer id="3" name="Spikes" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt00EKgCAQBdCuU9FJ3ZfHrUVBq8oyknwPPsxiwBGdpgEgRdyF54avBwAAAAAAKFy7pFvSfz0IQCXiSahbWHNUY1coy5TQO742BXCH/eUvQqaUMGdK/5Nz/6jEd8/1N6/eY6tnXd06eQ==
+  </data>
+ </layer>
+ <layer id="4" name="Finish Pipe" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt0yESACAMA8H+34LitVh0TcnMroqMuSoAAAAA+MuaPgC07ekDQJt+IZd+IZd+IZd+IZd+IZd+Idd59gVh/gU6
+  </data>
+ </layer>
+</map>

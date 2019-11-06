@@ -1,0 +1,75 @@
+
+BossRun.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run7
+  rotate: false
+  xy: 0, 413
+  size: 334, 407
+  orig: 334, 407
+  offset: 0, 0
+  index: -1
+Run6
+  rotate: false
+  xy: 0, 0
+  size: 299, 413
+  orig: 299, 413
+  offset: 0, 0
+  index: -1
+Run8
+  rotate: false
+  xy: 334, 440
+  size: 286, 380
+  orig: 286, 380
+  offset: 0, 0
+  index: -1
+Run10
+  rotate: false
+  xy: 620, 422
+  size: 267, 398
+  orig: 267, 398
+  offset: 0, 0
+  index: -1
+Run9
+  rotate: false
+  xy: 887, 406
+  size: 248, 414
+  orig: 248, 414
+  offset: 0, 0
+  index: -1
+Run2
+  rotate: false
+  xy: 1135, 402
+  size: 232, 418
+  orig: 232, 418
+  offset: 0, 0
+  index: -1
+Run4
+  rotate: false
+  xy: 1367, 415
+  size: 241, 405
+  orig: 241, 405
+  offset: 0, 0
+  index: -1
+Run5
+  rotate: false
+  xy: 1608, 411
+  size: 229, 409
+  orig: 229, 409
+  offset: 0, 0
+  index: -1
+Run1
+  rotate: false
+  xy: 1837, 404
+  size: 188, 416
+  orig: 188, 416
+  offset: 0, 0
+  index: -1
+Run3
+  rotate: false
+  xy: 299, 12
+  size: 231, 401
+  orig: 231, 401
+  offset: 0, 0
+  index: -1

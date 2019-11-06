@@ -1,0 +1,61 @@
+
+Big_Demon.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+big_demon_idle_anim_f0
+  rotate: false
+  xy: 1, 1
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+big_demon_idle_anim_f1
+  rotate: false
+  xy: 35, 1
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+big_demon_idle_anim_f2
+  rotate: false
+  xy: 69, 1
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+big_demon_idle_anim_f3
+  rotate: false
+  xy: 103, 1
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+big_demon_run_anim_f0
+  rotate: false
+  xy: 137, 1
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+big_demon_run_anim_f1
+  rotate: false
+  xy: 171, 1
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+big_demon_run_anim_f2
+  rotate: false
+  xy: 205, 1
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+big_demon_run_anim_f3
+  rotate: false
+  xy: 239, 1
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1

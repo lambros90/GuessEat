@@ -1,0 +1,12 @@
+
+Fireball2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fireball
+  rotate: false
+  xy: 1, 1
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1

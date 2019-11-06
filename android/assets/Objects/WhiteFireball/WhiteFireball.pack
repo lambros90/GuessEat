@@ -1,0 +1,33 @@
+
+WhiteFireball.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fireball
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fireball_rotated_0
+  rotate: false
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 90
+fireball_rotated_1
+  rotate: false
+  xy: 512, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 180
+fireball_rotated_2
+  rotate: false
+  xy: 768, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 270

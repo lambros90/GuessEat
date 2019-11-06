@@ -1,0 +1,61 @@
+
+LittleDino.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+output-onlinepngtools (10)
+  rotate: false
+  xy: 1, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (11)
+  rotate: false
+  xy: 49, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (12)
+  rotate: false
+  xy: 97, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (13)
+  rotate: false
+  xy: 97, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (14)
+  rotate: false
+  xy: 97, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (7)
+  rotate: false
+  xy: 145, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (8)
+  rotate: false
+  xy: 193, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+output-onlinepngtools (9)
+  rotate: false
+  xy: 241, 0
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
